@@ -5,10 +5,15 @@
 }
 p{
    
-   border: 5px outset chocolate;
+   border: 5px solid chocolate ;
+   border-radius: 100px;
   background-color: lightblue;
     font-style: italic;
     font-size: xx-large;
     text-align: center;
     
+}
+form{
+    text-align: right;
+    border-radius: 5px;
 }
